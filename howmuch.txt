@@ -1,0 +1,108 @@
+#6.9 Recap and Forms (10:22)
+Watch now →
+
+#6.10 Navigation Bar part One (12:32)
+Watch now →
+
+#6.11 Navigation Bar part Two (06:34)
+Watch now →
+
+#6.12 Border Box (05:46)
+Watch now →
+
+#6.13 Navigation Bar part Three (07:04)
+Watch now →
+
+#6.14 Screen Header (07:41)
+Watch now →
+
+#6.15 Friends Screen part One (07:40)
+Watch now →
+
+#6.16 User Component part One (12:20)
+Watch now →
+
+#6.17 User Component part Two (07:45)
+Watch now →
+
+#6.18 Finishing Friends Screen (06:51)
+Watch now →
+
+#6.19 Chats Screen part One (07:49)
+Watch now →
+
+#6.20 Chats Screen part Two (08:52)
+Watch now →
+
+#6.21 Find Screen Part One (10:38)
+Watch now →
+
+#6.22 Find Screen Part Two (06:52)
+Watch now →
+
+#6.23 Find Screen Part Three (13:10)
+Watch now →
+
+#6.24 Find Screen Part Four (07:47)
+Watch now →
+
+#6.25 More Screen part One (14:22)
+Watch now →
+
+#6.26 More Screen part Two (06:28)
+Watch now →
+
+#6.27 Settings Screen part One (12:55)
+Watch now →
+
+#6.28 Settings and Chat Screen part One (07:01)
+Watch now →
+
+#6.29 Chat Screen part Two (10:03)
+Watch now →
+
+#6.30 Chat Screen part Three (08:39)
+Watch now →
+
+#6.31 Chat Screen part Four (07:41)
+Watch now →
+
+#6.32 Chat Screen part Five (07:36)
+Watch now →
+
+#6.33 Write Message Input (11:54)
+Watch now →
+
+#6.34 Splash Screen part One (06:41)
+Watch now →
+
+#6.35 Splash Screen part Two (06:22)
+Watch now →
+
+#6.36 Navigation Animation (10:46)
+Watch now →
+
+#6.37 More Animations (08:57)
+Watch now →
+
+#6.38 Animating Chats Screen (12:44)
+Watch now →
+
+#6.39 Recap (04:43)
+Watch now →
+
+#6.40 No Mobile Media Query (07:06)
+Watch now →
+#7 [2020 UPDATE] PUBLISHING OUR WEBSITE
+
+#7.0 Branches on Git (09:22)
+Watch now →
+
+#7.1 Publishing on Github Pages (05:24)
+Watch now →
+
+#7.2 Updating Github Pages (07:30)
+Watch now →
+
+#7.3 Conclusions (01:44)
+Watch now →
